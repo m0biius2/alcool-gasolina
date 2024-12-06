@@ -1,3 +1,7 @@
+# Álcool ou Gasolina?
+
+Projeto em Dart/Flutter para calcular qual dos combustíveis é mais benéfico
+
 # alcool_gasolina
 
 A new Flutter project.
